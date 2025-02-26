@@ -1,0 +1,179 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+nav{
+    height: 70px;
+    width: 100%;
+    background-color: #fff;
+    display: flex;
+    justify-content: space-between;
+}
+.img1{
+    height: 50px;
+    padding-top: 5px;
+    padding-left: 5px;
+}
+ul{
+    list-style-type: none;
+    display: flex;
+    gap: 50px;
+    align-items: center;
+    padding-right: 30px;
+}
+.link1{
+    text-decoration: none;
+    color: #ed1c24;
+    font-size: 16px;
+    font-weight: normal;
+}
+.link2{
+    text-decoration: none;
+    font-size: 16px;
+}
+.link3{
+    text-decoration: none;
+    font-size: 16px;
+}
+.link4{
+    text-decoration: none;
+    font-size: 16px;
+}
+.div1{
+    border: 1px solid rgb(222,222,219);
+    height: 40px;
+    width: 150px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 40px;
+}
+.img2{
+    height: 25px;
+    width: 25px;
+    align-items: center;
+}
+.link5{
+    display: flex;
+    gap: 10px;
+    text-decoration: none;
+    color: #ed1c24;
+    align-items: center;
+    font-weight: bold;
+}
+.section1{
+    justify-content: center;
+    text-align: center;
+    font-size: 32px;
+    padding-top: 50px;
+    font-weight: lighter;
+}
+.section1>p{
+    font-size: 25px;
+}
+
+.btn1{
+    height: 50px;
+    width: 150px;
+    position: relative;
+    top: 20px;
+    left: 10px;
+    color: #fff;
+    background-color:#ed1c24;
+    border-radius: 50px;
+    border: 0;
+    font-size: 15px;
+    font-weight: bold;
+}
+.section2{
+    font-size: 32px;
+    padding-top: 150px;
+    padding-left: 150px;
+}
+.section2>p{
+    font-size: 16px;
+}
+.section2>img{
+    height: 400px;
+    position: relative;
+    left: 400px;
+    bottom: 350px;
+}
+.section3>h1{
+    font-size: 50px;
+    position: relative;
+    left: 700px;
+    bottom: 700px;
+}
+.section3>p{
+    font-size: 16px;
+    position: relative;
+    left: 700px;
+    bottom: 700px;
+}
+.section3>img{
+    height: 400px;
+    position: relative;
+    left: 120px;
+    bottom: 350px;
+}
+.section4{
+    position: relative;
+    left: 150px;
+    bottom: 500px;
+}
+.section4>h1{
+    font-size: 50px;
+}
+.section4>img{
+    height: 400px;
+    position: relative;
+    left: 400px;
+    bottom: 400px;
+}
+.section5>h1{
+    font-size: 50px;
+    position: relative;
+    left: 700px;
+    bottom: 1200px;
+}
+.section5>p{
+    font-size: 16px;
+    position: relative;
+    left: 700px;
+    bottom: 1200px;
+}
+.section5>img{
+    height: 400px;
+    position: relative;
+    bottom: 900px;
+    left: 130px;
+}
+.section6>h1{
+    font-size: 50px;
+    position: relative;
+    left: 130px;
+    bottom: 1100px;
+}
+.section6>p{
+    font-size: 16px;
+    position: relative;
+    left: 130px;
+    bottom: 1100px;
+}
+.section6>img{
+    height: 400px;
+    position: relative;
+    left: 550px;
+    bottom: 1450px;
+}
+.section0{
+    display: flex;
+    gap: 50px;
+    position: relative;
+    left: 500px;
+    bottom: 1300px;
+
+}
+
